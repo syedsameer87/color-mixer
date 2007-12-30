@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="HTML Color Picker with RGB Mixer"
+     title_url="http://www.dapj.com/color-mixer"
+     description="Adjust Red, Green and Blue Sliders to create an unique color shade, Copy the color code generated."
+     height="400" width="200"
+     directory_title="HTML Color Picker with RGB Mixer"
+     author="dapj"
+     author_location="Bangalore, India"
+     author_affiliation="dapj.com"
+     screenshot="http://color-mixer.googlecode.com/svn/trunk/colormix.png"
+     thumbnail="http://color-mixer.googlecode.com/svn/trunk/colormix-tn.png"
+     scaling="false"
+     scrolling="false"
+     author_photo="http://wap-browser.googlecode.com/svn/trunk/delogo.png"
+     author_aboutme="Electronic Product Designer"
+     author_link="http://www.dapj.com/"
+     author_quote="Design with a Difference - Solderman"
+     author_email="gadgets@dapj.com"/>
+<Content type="html"><![CDATA[
+<iframe src="http://color-mixer.googlecode.com/svn/trunk/colorpick.html" marginwidth="0" marginheight="0" allowtransparency="true" frameborder="0" height="400" scrolling="no" width="200"></iframe>
+]]></Content>
+</Module>
