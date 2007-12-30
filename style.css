@@ -1,0 +1,195 @@
+body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	background-color: transparent;
+	font: normal 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #49797B;
+}
+
+font,th,td,p {
+	  font-family: Verdana,Arial,Helvetica,sans-serif;
+	  font-size: 10px;
+	  font-weight: bold;
+      }
+b{
+	color: #5A9698;
+}
+a:link,a:active,a:visited {
+	text-decoration: none;
+	color: #5644C6;
+}
+a:hover {
+	text-decoration: none;
+	color: #C71585;
+}
+textarea, select, input{
+	color: #B11376;
+	font-weight: bold;
+	background: #E0DEE0;
+	border: 1px solid #D3D3D3;
+	text-align: center;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 10px;
+	margin: 2px 2px 2px 2px;
+	padding: 2px 2px 2px 2px;
+}
+
+#thumb1{
+	position: relative;
+   height:25px;
+	width:25px;
+	background-image: url(red.png);
+	background-repeat: no-repeat;
+}
+
+#thumb2{
+  position: relative;
+   height:25px;
+	width:25px;
+   background-image: url(green.png);
+	background-repeat: no-repeat;
+}
+
+#thumb3{
+   position: relative;
+   height:25px;
+	width:25px;
+   background-image: url(blue.png);
+	background-repeat: no-repeat;
+}
+
+#scrollcontent{
+	position: absolute;
+	height: 97px;
+	width: 174px;
+	left: 13px;
+	top: 13px;
+	background-color: Black;
+}
+
+#scrollhold1 {
+	background-image: url(rainbow.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 13px;
+	top: 106px;
+	height: 4px;
+	width: 200px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	z-index: 10;
+}
+
+#scrollhold2 {
+	background-image: url(rainbow.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 13px;
+	top: 305px;
+	height: 4px;
+	width: 200px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	z-index: 10;
+}
+
+#sandbox{
+	background-image: url(colorbox.png);
+	position: absolute;
+	left: 0;
+	top: 0;
+	height:400px;
+	width:200px;
+	background-color: transparent;
+}
+
+
+#thumbr{
+	position: absolute;
+	left: 36px;
+	top: 113px;
+	z-index: 10;
+}
+
+#thumbg{
+	position: absolute;
+	left: 89px;
+	top: 113px;
+	z-index: 10;
+}
+
+#thumbb{
+	position: absolute;
+	left: 142px;	
+	top: 113px;
+	z-index: 10;	
+}
+
+.r_track{
+	position: absolute;
+	left: 40px;
+	top: 113px;
+	height: 188px;
+	width: 17px;
+	background-color: #D3D3D3;
+	background-image: url(track.png);
+	border-left: 1px solid #D3D3D3;
+	border-right: 1px solid #D3D3D3;
+}
+
+.g_track{
+	position: absolute;
+	left: 93px;
+	top: 113px;
+	height: 188px;
+	width: 17px;
+	background-color: #D3D3D3;
+	background-image: url(track.png);
+	border-left: 1px solid #D3D3D3;
+	border-right: 1px solid #D3D3D3;
+}
+
+.b_track{
+	position: absolute;
+	left: 146px;
+	top: 113px;
+	height: 188px;
+	width: 17px;
+	background-color: #D3D3D3;
+	background-image: url(track.png);
+	border-left: 1px solid #D3D3D3;
+	border-right: 1px solid #D3D3D3;
+}
+
+.hex_rgb{
+	position: relative;
+	left: 12px;
+	top: 310px;
+	height: 77px;
+	width: 174px;
+	background-color: #D3D3D3;
+	text-align: center;
+	background-image: url(track.png);
+	margin: 1px 1px 1px 1px;
+	padding: 1px 1px 1px 1px;
+	z-index: 0;	
+}
+
+#scrollframe{
+	position: absolute;
+	left: 12px;
+	top: 109px;
+	height: 195px;
+	width: 174px;
+	background-color: #F5F5F5;
+	text-align: center;
+	background-image: url(back.png);
+	margin: 1px 1px 1px 1px;
+	padding: 1px 1px 1px 1px;
+	z-index: 0;
+}
+
+form {
+	margin: 1px 1px 1px 1px;
+	padding: 1px 1px 1px 1px;
+}
