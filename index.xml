@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
 <ModulePrefs title="HTML Color Picker with RGB Mixer"
-     title_url="http://gadgets.dapj.com/2008/02/rgb-color-mixer-gadget.html"
+     title_url="http://www.dapj.com/color-mixer"
      description="Adjust Red, Green and Blue Sliders to create an unique color shade, Copy the color code generated."
      height="400" width="200"
      directory_title="HTML Color Picker with RGB Mixer"
