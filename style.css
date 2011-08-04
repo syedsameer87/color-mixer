@@ -17,11 +17,12 @@ b{
 }
 a:link,a:active,a:visited {
 	text-decoration: none;
-	color: #5644C6;
+	color: #5340c5;
+	font-weight: bold;
 }
 a:hover {
 	text-decoration: none;
-	color: #C71585;
+	color: #1a6e1a;
 }
 textarea, select, input{
 	color: #B11376;
